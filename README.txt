@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Jpeg webp converter ===
 Contributors: mohsinrasool
 Donate link: http://meticulousolutions.com
 Tags: comments, spam
